@@ -1,1 +1,1 @@
-puts "Hello World, KWK Scholars!"
+puts "Hello World!"
